@@ -2,8 +2,6 @@
   ─────────────────────────────────────────────────────────────
   GitHub Profile README — github.com/kasra-nikshabani
   Lives in the repo kasra-nikshabani/kasra-nikshabani (branch: main)
-  TODO before pushing: confirm the LinkedIn / Telegram / Portfolio
-  links below — they are guesses based on your handle.
   ─────────────────────────────────────────────────────────────
 -->
 
@@ -13,8 +11,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/kasra-nikshabani)
-[![Telegram](https://img.shields.io/badge/Telegram-0b1020?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/kasra_nikshabani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kasra-nikshabani-449221271/)
 [![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kasranikshabani3@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=kasra-nikshabani&label=Profile%20views&color=22d3ee&style=flat-square" alt="profile views" />
