@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kasra-nikshabani-449221271/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kasra-nikshabani/)
 [![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kasranikshabani3@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=kasra-nikshabani&label=Profile%20views&color=22d3ee&style=flat-square" alt="profile views" />
