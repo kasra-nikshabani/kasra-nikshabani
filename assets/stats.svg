@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 210" width="470" height="210" role="img" aria-label="⚡ GitHub Stats">
+  <title>⚡ GitHub Stats</title>
+  <defs>
+    <linearGradient id="bgS" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070f"/>
+      <stop offset="45%" stop-color="#0d1226"/>
+      <stop offset="100%" stop-color="#05070f"/>
+    </linearGradient>
+    <linearGradient id="acS" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="470" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="rlS" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grS" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#93c5fd" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="cdS"><rect width="470" height="210" rx="14"/></clipPath>
+    <style>
+      .sS { font-family: ui-sans-serif, -apple-system, "Segoe UI", Inter, Roboto, "Helvetica Neue", Arial, sans-serif; }
+      .mS { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+  <g clip-path="url(#cdS)">
+    <rect width="470" height="210" fill="url(#bgS)"/>
+    <rect width="470" height="210" fill="url(#grS)"/>
+    <text class="sS" x="24" y="40" font-size="16" font-weight="700" fill="url(#acS)">⚡ GitHub Stats</text>
+    <rect x="24" y="54" width="422" height="1.5" rx="1" fill="url(#rlS)"/>
+    <g>
+      <circle cx="29" cy="87" r="3.5" fill="#22d3ee"/>
+      <text class="mS" x="42" y="92" font-size="12" fill="#7c8aa5">Contributions</text>
+      <text class="sS" x="224" y="93" font-size="17" font-weight="700" fill="#dbe4f0" text-anchor="end">—</text>
+      <rect x="42" y="100" width="182" height="1" fill="#ffffff" fill-opacity=".05"/>
+    </g>
+    <g>
+      <circle cx="253" cy="87" r="3.5" fill="#818cf8"/>
+      <text class="mS" x="266" y="92" font-size="12" fill="#7c8aa5">Total Commits</text>
+      <text class="sS" x="448" y="93" font-size="17" font-weight="700" fill="#dbe4f0" text-anchor="end">—</text>
+      <rect x="266" y="100" width="182" height="1" fill="#ffffff" fill-opacity=".05"/>
+    </g>
+    <g>
+      <circle cx="29" cy="127" r="3.5" fill="#f472b6"/>
+      <text class="mS" x="42" y="132" font-size="12" fill="#7c8aa5">Public Repos</text>
+      <text class="sS" x="224" y="133" font-size="17" font-weight="700" fill="#dbe4f0" text-anchor="end">7</text>
+      <rect x="42" y="140" width="182" height="1" fill="#ffffff" fill-opacity=".05"/>
+    </g>
+    <g>
+      <circle cx="253" cy="127" r="3.5" fill="#22d3ee"/>
+      <text class="mS" x="266" y="132" font-size="12" fill="#7c8aa5">Pull Requests</text>
+      <text class="sS" x="448" y="133" font-size="17" font-weight="700" fill="#dbe4f0" text-anchor="end">—</text>
+      <rect x="266" y="140" width="182" height="1" fill="#ffffff" fill-opacity=".05"/>
+    </g>
+    <g>
+      <circle cx="29" cy="167" r="3.5" fill="#818cf8"/>
+      <text class="mS" x="42" y="172" font-size="12" fill="#7c8aa5">Issues</text>
+      <text class="sS" x="224" y="173" font-size="17" font-weight="700" fill="#dbe4f0" text-anchor="end">—</text>
+      <rect x="42" y="180" width="182" height="1" fill="#ffffff" fill-opacity=".05"/>
+    </g>
+    <g>
+      <circle cx="253" cy="167" r="3.5" fill="#f472b6"/>
+      <text class="mS" x="266" y="172" font-size="12" fill="#7c8aa5">Total Stars</text>
+      <text class="sS" x="448" y="173" font-size="17" font-weight="700" fill="#dbe4f0" text-anchor="end">0</text>
+      <rect x="266" y="180" width="182" height="1" fill="#ffffff" fill-opacity=".05"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="469" height="209" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+</svg>

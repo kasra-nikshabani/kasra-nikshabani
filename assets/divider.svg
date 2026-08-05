@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="1000" height="12" role="presentation">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0%"   stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#22d3ee" stop-opacity=".75"/>
+      <stop offset="50%"  stop-color="#818cf8" stop-opacity=".95"/>
+      <stop offset="75%"  stop-color="#f472b6" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="b" x="-10%" y="-400%" width="120%" height="900%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+  </defs>
+  <rect x="0" y="5" width="1000" height="2" rx="1" fill="url(#g)" filter="url(#b)" opacity=".7"/>
+  <rect x="0" y="5" width="1000" height="2" rx="1" fill="url(#g)"/>
+  <circle cy="6" r="3.5" fill="#e0f2fe">
+    <animate attributeName="cx" values="60;940;60" dur="7s" repeatCount="indefinite" calcMode="spline"
+             keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
