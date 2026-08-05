@@ -31,17 +31,17 @@ const kasra = {
   at:       "Foolad Mobarakeh Sepahan",
   from:     "Iran 🇮🇷",
   frontend: ["React.js", "JavaScript", "HTML", "CSS"],
-  backend:  ["Node.js", "Go", "Java"],
+  backend:  ["Java", "Spring Boot", "Node.js", "Go"],
   learning: ["TypeScript", "Docker", "PostgreSQL", "System design"],
   motto:    "Build it simple, make it work, then make it good.",
 };
 ```
 
 - 💼 &nbsp;Full-stack developer at **Foolad Mobarakeh Sepahan** — building internal web tools end-to-end.
-- 🧩 &nbsp;Comfortable across the stack: **React** on the front, **Node.js** and **Go** on the back.
+- 🧩 &nbsp;Comfortable across the stack: **React** on the front, **Java / Spring Boot**, **Node.js** and **Go** on the back.
 - 📚 &nbsp;Currently leveling up on **TypeScript**, **Docker**, and **backend architecture**.
 - 🤝 &nbsp;Open to collaborating on open-source projects — especially web apps and developer tooling.
-- 💬 &nbsp;Ask me about **JavaScript, React, Node.js, or Go**.
+- 💬 &nbsp;Ask me about **Java & Spring Boot, JavaScript, React, Node.js, or Go**.
 - 📫 &nbsp;Reach me at **kasranikshabani3@gmail.com**
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -65,7 +65,7 @@ const kasra = {
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb&theme=dark" alt="backend" />
 
 **Tools**
 

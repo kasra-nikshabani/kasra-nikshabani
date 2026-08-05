@@ -53,7 +53,7 @@
       <animate attributeName="width" values="0;446;446;0;0" keyTimes="0;0.1333;0.3;0.3083;1" dur="12s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="t2"><rect x="48" y="176" height="26" width="0">
-      <animate attributeName="width" values="0;0;399;399;0;0" keyTimes="0;0.3333;0.4667;0.6333;0.6417;1" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;0;366;366;0;0" keyTimes="0;0.3333;0.4667;0.6333;0.6417;1" dur="12s" repeatCount="indefinite"/>
     </rect></clipPath>
     <clipPath id="t3"><rect x="48" y="176" height="26" width="0">
       <animate attributeName="width" values="0;0;317;317;0;0" keyTimes="0;0.6667;0.8;0.9667;0.975;1" dur="12s" repeatCount="indefinite"/>
@@ -117,12 +117,12 @@
 
       <!-- line 2 -->
       <g clip-path="url(#t2)">
-        <text x="48" y="196" fill="#dbe4f0" textLength="393" lengthAdjust="spacingAndGlyphs">Backend Engineering with Go &amp; Java</text>
+        <text x="48" y="196" fill="#dbe4f0" textLength="360" lengthAdjust="spacingAndGlyphs">Backend with Java · Spring · Go</text>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3333;0.3334;0.6333;0.6417;1" dur="12s" repeatCount="indefinite"/>
         <rect class="blink" y="178" width="10" height="22" fill="#818cf8" x="48">
-          <animate attributeName="x" values="48;48;447;447;48;48" keyTimes="0;0.3333;0.4667;0.6333;0.6417;1" dur="12s" repeatCount="indefinite"/>
+          <animate attributeName="x" values="48;48;410;410;48;48" keyTimes="0;0.3333;0.4667;0.6333;0.6417;1" dur="12s" repeatCount="indefinite"/>
         </rect>
       </g>
 
@@ -159,6 +159,14 @@
       <g>
         <rect x="436" y="214" width="76" height="28" rx="14" fill="#fbbf24" fill-opacity=".08" stroke="#fbbf24" stroke-opacity=".35"/>
         <text x="474" y="232" fill="#fcd34d" text-anchor="middle">Go</text>
+      </g>
+      <g>
+        <rect x="522" y="214" width="72" height="28" rx="14" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".35"/>
+        <text x="558" y="232" fill="#7dd3fc" text-anchor="middle">Java</text>
+      </g>
+      <g>
+        <rect x="604" y="214" width="80" height="28" rx="14" fill="#34d399" fill-opacity=".08" stroke="#34d399" stroke-opacity=".35"/>
+        <text x="644" y="232" fill="#6ee7b7" text-anchor="middle">Spring</text>
       </g>
     </g>
 
