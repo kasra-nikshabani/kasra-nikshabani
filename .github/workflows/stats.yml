@@ -11,6 +11,12 @@ on:
       - ".github/scripts/gen_stats.py"
       - ".github/workflows/stats.yml"
 
+# A scheduled run and a manual run both push to main; serialise them so the
+# second doesn't fail on a non-fast-forward.
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
