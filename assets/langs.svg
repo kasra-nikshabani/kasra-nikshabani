@@ -32,11 +32,11 @@
     <clipPath id="barL"><rect x="24" y="76" width="422" height="12" rx="6"/></clipPath>
     <rect x="24" y="76" width="422" height="12" rx="6" fill="#ffffff" fill-opacity=".05"/>
     <g clip-path="url(#barL)">
-      <rect x="24.0" y="76" width="285.1" height="12" fill="#e34c26">
-        <animate attributeName="width" from="0" to="285.1" dur=".8s" begin="0.00s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+      <rect x="24.0" y="76" width="285.4" height="12" fill="#e34c26">
+        <animate attributeName="width" from="0" to="285.4" dur=".8s" begin="0.00s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
       </rect>
-      <rect x="309.1" y="76" width="128.5" height="12" fill="#3572A5">
-        <animate attributeName="width" from="0" to="128.5" dur=".8s" begin="0.08s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+      <rect x="309.4" y="76" width="128.2" height="12" fill="#3572A5">
+        <animate attributeName="width" from="0" to="128.2" dur=".8s" begin="0.08s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
       </rect>
       <rect x="437.6" y="76" width="6.8" height="12" fill="#663399">
         <animate attributeName="width" from="0" to="6.8" dur=".8s" begin="0.16s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
