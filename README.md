@@ -6,13 +6,13 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Kasra Nikshabani — Full-Stack Developer" width="100%" />
+  <img src="./assets/hero.svg" alt="Kasra Nikshabani — Team Lead · Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kasra-nikshabani/)
-[![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kasranikshabani3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kasranikshabani@yahoo.com)
 
 <img src="https://komarev.com/ghpvc/?username=kasra-nikshabani&label=Profile%20views&color=22d3ee&style=flat-square" alt="profile views" />
 
@@ -24,22 +24,22 @@
 
 ```js
 const kasra = {
-  role:     "Full-Stack Developer",
-  at:       "Foolad Mobarakeh Sepahan",
-  from:     "Iran 🇮🇷",
-  frontend: ["React.js", "JavaScript", "HTML", "CSS"],
-  backend:  ["Java", "Spring Boot", "Node.js", "Go"],
-  learning: ["TypeScript", "Docker", "PostgreSQL", "System design"],
+  role:     "Team Lead · Full-Stack Developer",
+  at:       "Foolad Mobarakeh Sepahan Club",
+  from:     "Isfahan, Iran 🇮🇷",
+  frontend: ["TypeScript", "React.js", "Next.js", "JavaScript"],
+  backend:  ["Java", "Spring Boot", "C#", "ASP.NET Core"],
+  focus:    ["Software architecture", "RESTful APIs", "Microservices"],
   motto:    "Build it simple, make it work, then make it good.",
 };
 ```
 
-- 💼 &nbsp;Full-stack developer at **Foolad Mobarakeh Sepahan** — building internal web tools end-to-end.
-- 🧩 &nbsp;Comfortable across the stack: **React** on the front, **Java / Spring Boot**, **Node.js** and **Go** on the back.
-- 📚 &nbsp;Currently leveling up on **TypeScript**, **Docker**, and **backend architecture**.
-- 🤝 &nbsp;Open to collaborating on open-source projects — especially web apps and developer tooling.
-- 💬 &nbsp;Ask me about **Java & Spring Boot, JavaScript, React, Node.js, or Go**.
-- 📫 &nbsp;Reach me at **kasranikshabani3@gmail.com**
+- 💼 &nbsp;**Team Lead** of software development at **Foolad Mobarakeh Sepahan Club** — club systems, e-commerce, academy platform, and internal automation.
+- 🧩 &nbsp;Backend with **Java / Spring Boot** and **C# / ASP.NET Core**; frontend with **React.js** and **Next.js**.
+- 🏗️ &nbsp;Hands-on with **software architecture**, **RESTful APIs**, databases, and shipping products that stay maintainable at scale.
+- 🎫 &nbsp;Previously shipped Sepahan’s **online match ticketing** and fan entry app — [ticket.sepahansc.com](https://ticket.sepahansc.com/matches).
+- 🤝 &nbsp;Open to collaborating on open-source — especially full-stack web apps and developer tooling.
+- 📫 &nbsp;Reach me at **kasranikshabani@yahoo.com**
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -51,30 +51,47 @@ const kasra = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,go,java,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,py,html,css&theme=dark" alt="languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="frontend" />
 
 </td>
 <td valign="top" width="50%">
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,redis,mysql,mongodb,elasticsearch&theme=dark" alt="backend" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman&theme=dark" alt="tools" />
 
 </td>
 </tr>
 </table>
 
-**📖 Currently learning**
+**Also in the toolkit:** REST APIs · Microservices · NoSQL · Celery · Software architecture
 
-<img src="https://skillicons.dev/icons?i=ts,docker,postgres,nextjs&theme=dark" alt="learning" />
+**📖 Currently leveling up**
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet,docker,postgres&theme=dark" alt="learning" />
+
+<sub>Anisa Java Spring Developer · Microsoft Full-Stack Developer Professional Certificate</sub>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 💼 Experience
+
+| Role | Where | Highlights |
+| :-- | :-- | :-- |
+| **Team Lead — Software Development** | Foolad Mobarakeh Sepahan Club · *now* | Organizational software, online shop, [academy platform](https://academy.sepahansc.com), admin automation |
+| **Senior Developer** | Sepahan Club | Online match ticketing + fan entry — [ticket.sepahansc.com](https://ticket.sepahansc.com/matches) |
+| **Software Engineer** | Basa Foolad Mobarakeh | Company web/app, digital wallet, banking scan systems, core performance work |
+| **Developer** | APA · Cybersecurity Research Center | Secure systems, R&D, CDR — [cert.iut.ac.ir](https://cert.iut.ac.ir/fa) |
+| **Software Specialist** | Danesh Bonyan Eftekhar Modiran | Psychology assessment platform — [eftekhartalent.ir](https://eftekhartalent.ir) |
+| **Software Specialist** | Reyhaneh Gostar | Installment purchase system, banking switch APIs, company web/app |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -117,7 +134,9 @@ const kasra = {
 
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
-| **[sepahanticket](https://github.com/kasra-nikshabani/sepahanticket)** | Ticketing front-end for Foolad Mobarakeh Sepahan football club | `HTML` `CSS` `JS` |
+| **[Sepahan Ticketing](https://ticket.sepahansc.com/matches)** | Online match tickets + fan entry for Foolad Mobarakeh Sepahan | Full-stack |
+| **[Sepahan Academy](https://academy.sepahansc.com)** | Club academy / training platform | Full-stack |
+| **[sepahanticket](https://github.com/kasra-nikshabani/sepahanticket)** | Ticketing front-end for Sepahan football club | `HTML` `CSS` `JS` |
 | **[museum_sepahan](https://github.com/kasra-nikshabani/museum_sepahan)** | Web presence for the Sepahan club museum | `HTML` `CSS` |
 | **[regex-validator](https://github.com/kasra-nikshabani/regex-validator)** | Email and phone-number validation utility | `Java` |
 
