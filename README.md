@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Kasra Nikshabani — Team Lead · Full-Stack Developer" width="100%" />
+  <img src="./assets/hero.svg?v=2" alt="Kasra Nikshabani — Team Lead · Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
